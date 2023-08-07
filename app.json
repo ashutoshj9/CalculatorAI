@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "CalculatorAI",
+    "slug": "CalculatorAI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.CalculatorAI"
+    }
+  },
+  "name": "CalculatorAI"
+}
